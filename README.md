@@ -1,4 +1,4 @@
-# myapp
+# Flutter Task 2 ui/ux design
 
 A new Flutter project.
 
